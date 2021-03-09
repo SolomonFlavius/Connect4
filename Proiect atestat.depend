@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585312645 source:d:\atestat info\proiect atestat\main.cpp
+	<iostream>
+	<graphics.h>
+
